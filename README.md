@@ -35,5 +35,6 @@ React.js: The front-end library used to build the user interface, ensuring a res
 
 Node.js: The runtime environment used to execute JavaScript on the server side.
 
-          ![image](https://github.com/labheshjoshi/BookStore/assets/129281226/6ef1228e-7a1e-493c-bb32-36c927af725f)
+![image](https://github.com/labheshjoshi/BookStore/assets/129281226/05d86811-ee19-48eb-949c-45fd5ed62cc9)
+
 
