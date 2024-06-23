@@ -21,5 +21,16 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+
+Overview:
+The Book Store App is a web application designed to provide users with access to a wide range of books. Developed using the MERN stack, the app offers both free and premium content. Users can browse some free books without logging in, but to explore all available categories and books, they need to create an account and log in.
+
+Tech Stack:
+
+MongoDB: The database used to store user information, book details, categories, and other relevant data.
+Express.js: The backend framework used to handle routing, authentication, and API requests.
+React.js: The front-end library used to build the user interface, ensuring a responsive and dynamic user experience.
+Node.js: The runtime environment used to execute JavaScript on the server side.
+
           ![image](https://github.com/labheshjoshi/BookStore/assets/129281226/6ef1228e-7a1e-493c-bb32-36c927af725f)
 
