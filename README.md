@@ -21,3 +21,5 @@ Step9:- move to frontend
 Step10:- move backend
           npm install 
           npm start
+          ![image](https://github.com/labheshjoshi/BookStore/assets/129281226/6ef1228e-7a1e-493c-bb32-36c927af725f)
+
